@@ -36,5 +36,3 @@ document.write("Local time: " + localTime +  currentDate + " Previous Employer: 
 document.write("<br>");
 document.write("<br>");
 document.write("Thank you and " + goodbye);
-
-
